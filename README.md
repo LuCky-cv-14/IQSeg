@@ -46,6 +46,13 @@ Install PyTorch:
 pip install torch==1.11.0+cu113 torchvision==0.12.0+cu113 torchaudio==0.11.0 --extra-index-url https://download.pytorch.org/whl/cu113
 ```
 
+Download the Detectron2 code used by this project from Baidu Netdisk if needed:
+
+```text
+Link: https://pan.baidu.com/s/1c0oofXR8swZg0qyeLNbFFQ
+Password: r7rv
+```
+
 Install the local Detectron2 package:
 
 ```bash
@@ -120,7 +127,7 @@ For each sample, the files under `IRwarp`, `Visible`, and `Label` should share t
 Dataset download:
 
 ```text
-链接: https://pan.baidu.com/s/1icBXNCqYxJ1M_Vi1dxOYig 
+Link: https://pan.baidu.com/s/1icBXNCqYxJ1M_Vi1dxOYig 
 Password: hiyb 
 ```
 
@@ -289,6 +296,12 @@ This project is built on the following excellent open-source projects:
 - MaskFormer
 - Segment Anything
 - DCNv4
+
+## License
+
+This project is released under the Apache License 2.0.
+
+The bundled Detectron2 code follows its original Apache License 2.0. See `detectron2/LICENSE` for details.
 
 ## Citation
 
