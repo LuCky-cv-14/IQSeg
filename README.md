@@ -290,12 +290,6 @@ This project is built on the following excellent open-source projects:
 - Segment Anything
 - DCNv4
 
-## License
-
-This project is released under the Apache License 2.0.
-
-The bundled Detectron2 code follows its original Apache License 2.0. See `detectron2/LICENSE` for details.
-
 ## Citation
 
 If this project is helpful for your research, please cite our paper:
